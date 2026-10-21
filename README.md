@@ -100,4 +100,4 @@ python lawkit.py --selftest
 
 ---
 
-만든 사람: 김지혜 CPA · 라이선스: MIT
+만든 사람: NuttyCPA Jihye · 라이선스: MIT
